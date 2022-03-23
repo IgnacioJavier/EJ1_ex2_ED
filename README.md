@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# EJ1_ex2_ED
 
-You can use the [editor on GitHub](https://github.com/IgnacioJavier/EJ1_ex2_ED/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+En este ejercicio vamos a hacer la documentación técnica de un proyecto. Para ello vamos a valernos de la función **Javadocs**, que _nos va a permitir generar documentos HTML con la documentación que hagamos en el proyecto_. Por otra parte, tanto este README como el proyecto documentado se han subido al repositorio del proyecto.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Para documentar el proyecto abriremos los archivos con nuestro entorno de Java, Apache Netbeans, y generaremos la documentación adecuada valiéndonos de /** @ **/. No obstante, el proyecto parece no estar pensado para trabajar con él con este IDE sino con Eclipse, así que mi propuesta es subir, tanto dentro como fuera de la carpeta, uno de los archivos .java para mostrar lo que pretendía hacer, ya que Netbeans no me ha dado la opción de generar el JavaDocs vía NetBeans. Lo normal es elegir "Exportar", y seleccionar Java y, luego, Javadocs, así debería generar el documento.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Para complementar la actividad, trataremos de usar **GitHub Pages** para hacer una página de mi proyecto, teniendo un link del mismo.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IgnacioJavier/EJ1_ex2_ED/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
